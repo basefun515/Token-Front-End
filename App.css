@@ -1,0 +1,31 @@
+.container.mt-5 {
+  max-width: 800px; /* Limit content width */
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px; /* Add some padding */
+  background-color: #f8f9fa; /* Light background color */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+h1 {
+  text-align: center; /* Center the main heading */
+  margin-bottom: 30px;
+  color: #343a40; /* Darker heading color */
+}
+
+.alert {
+  margin-top: 15px; /* Add space above alerts */
+}
+
+.btn {
+  margin-right: 10px; /* Add space between buttons */
+}
+
+.card {
+  margin-top: 20px; /* Space above cards */
+}
+
+.card-header {
+  font-weight: bold; /* Make card headers bold */
+}
